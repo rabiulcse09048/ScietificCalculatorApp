@@ -1,0 +1,16 @@
+C:\Users\Rabiul Islam\Documents\Visual Studio 2008\Projects\scientific_calculator_own\scientific_calculator_own\bin\Debug\scientific_calculator_own.exe
+C:\Users\Rabiul Islam\Documents\Visual Studio 2008\Projects\scientific_calculator_own\scientific_calculator_own\bin\Debug\scientific_calculator_own.pdb
+C:\Users\Rabiul Islam\Documents\Visual Studio 2008\Projects\scientific_calculator_own\scientific_calculator_own\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rabiul Islam\Documents\Visual Studio 2008\Projects\scientific_calculator_own\scientific_calculator_own\obj\Debug\scientific_calculator_own.frmScientificCalculator.resources
+C:\Users\Rabiul Islam\Documents\Visual Studio 2008\Projects\scientific_calculator_own\scientific_calculator_own\obj\Debug\scientific_calculator_own.Properties.Resources.resources
+C:\Users\Rabiul Islam\Documents\Visual Studio 2008\Projects\scientific_calculator_own\scientific_calculator_own\obj\Debug\scientific_calculator_own.csproj.GenerateResource.Cache
+C:\Users\Rabiul Islam\Documents\Visual Studio 2008\Projects\scientific_calculator_own\scientific_calculator_own\obj\Debug\scientific_calculator_own.exe
+C:\Users\Rabiul Islam\Documents\Visual Studio 2008\Projects\scientific_calculator_own\scientific_calculator_own\obj\Debug\scientific_calculator_own.pdb
+E:\c# project\scientific_calculator_own\scientific_calculator_own\obj\Debug\scientific_calculator_own.exe
+E:\c# project\scientific_calculator_own\scientific_calculator_own\obj\Debug\scientific_calculator_own.pdb
+E:\c# project\scientific_calculator_own\scientific_calculator_own\bin\Debug\scientific_calculator_own.exe
+E:\c# project\scientific_calculator_own\scientific_calculator_own\bin\Debug\scientific_calculator_own.pdb
+E:\c# project\scientific_calculator_own\scientific_calculator_own\obj\Debug\scientific_calculator_own.csprojResolveAssemblyReference.cache
+E:\c# project\scientific_calculator_own\scientific_calculator_own\obj\Debug\scientific_calculator_own.frmScientificCalculator.resources
+E:\c# project\scientific_calculator_own\scientific_calculator_own\obj\Debug\scientific_calculator_own.Properties.Resources.resources
+E:\c# project\scientific_calculator_own\scientific_calculator_own\obj\Debug\scientific_calculator_own.csproj.GenerateResource.Cache
